@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I am Data Scientist / Software Engineer working on Nowcasting at the Met Office.
-
-
-## Github Stats
-
-<p>&nbsp;<a href="https://github.com/mo-andrewmcnaughton?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-andrewmcnaughton&show_icons=true&theme=vue&hide_border=true&title_color=000000&cache_seconds=86400&card_width=500" /></a></p>
